@@ -1,0 +1,17 @@
+﻿Build started 31/12/2017 11:41:07.
+     1>Project "F:\AUST\1.2\CSE Lab\SD lab\Visual Studio - Assignment 5\Assignment5 - version 3.1 (small screen)\Assignment5 - v3 (small screen)\game_trial\game_trial\game_trial.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\game_trial.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         game_trial.vcxproj -> F:\AUST\1.2\CSE Lab\SD lab\Visual Studio - Assignment 5\Assignment5 - version 3.1 (small screen)\Assignment5 - v3 (small screen)\game_trial\Debug\game_trial.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\game_trial.unsuccessfulbuild".
+         Touching "Debug\game_trial.lastbuildstate".
+     1>Done Building Project "F:\AUST\1.2\CSE Lab\SD lab\Visual Studio - Assignment 5\Assignment5 - version 3.1 (small screen)\Assignment5 - v3 (small screen)\game_trial\game_trial\game_trial.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03
